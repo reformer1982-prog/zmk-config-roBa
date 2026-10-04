@@ -91,7 +91,7 @@
 
         FUNCTION {
             bindings = <
-&kp ESC    &kp LC(X)  &kp LC(C)  &kp LC(V)  &kp LC(Z)                       &kp LS(LG(S))  &kp LG(G)  &kp LA(LG(R))  &kp LG(P)  &none
+&kp ESC    &kp LC(X)  &kp LC(C)  &kp LC(V)  &kp LC(Z)                       &kp LS(LG(S))  &kp LG(G)  &kp LA(LG(R))  &kp LG(P)  &kp LG(L)
 &kp N1     &kp N2     &kp N3     &kp N4     &kp N5     &trans      &kp F13  &kp N6         &kp N7     &kp N8         &kp N9     &kp N0
 &kp F1     &kp F2     &kp F3     &kp F4     &kp F5     &kp F6      &kp F7   &kp F8         &kp F9     &kp F10        &kp F11    &kp F12
 &kp LCTRL  &kp LSHFT  &kp LALT   &trans     &trans     &trans      &trans   &trans                                              &kp F13
